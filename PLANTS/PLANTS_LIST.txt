@@ -1,0 +1,4 @@
+DEW CUP      - creates dew at dwan that can be harvested with a dew scythe
+SIKKA BULB   - can give 100 ml water every 24h
+PALE POD     - can give 100 ml water every 24h
+SAND SHARD   - 10% health damage
