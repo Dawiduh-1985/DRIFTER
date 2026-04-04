@@ -1,8 +1,9 @@
 # Rhino
 newmtl input_material
-Kd 1.00000000 1.00000000 1.00000000
-Ke 0.00000000 0.00000000 0.00000000
-d 1.00000000
-Ns 10.00000477
-illum 2
+Ka 0.4000 0.1000 0.4000     # Ambient: Deep Purple shadow tint
+Kd 0.8500 0.7000 0.8500     # Diffuse: Soft Pinkish-Grey base
+Ks 1.0000 0.8000 0.6000     # Specular: Warm Golden highlight
+Ns 10.0                     # Low gloss for a "stone" feel
+illum 2                     # Diffuse and Specular (standard)
+d 1.0                       # Fully Opaque
 map_Kd PALACE_FIXED_basecolor.jpg
