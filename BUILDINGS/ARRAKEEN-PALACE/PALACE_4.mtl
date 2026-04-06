@@ -1,0 +1,19 @@
+# Rhino
+newmtl PALACE DOOR
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 2.9383
+map_Kd DOOR-2.png
+map_Bump DOOR-2_normal.png
+newmtl NEW_PALACE_3.1
+Ka 0.0000 0.0000 0.0000
+Kd 0.9373 0.9098 0.8353
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 26.3198
+map_Kd 12_limestone wall surface texture-seamless.jpg
+map_Bump limestone_normal.png
