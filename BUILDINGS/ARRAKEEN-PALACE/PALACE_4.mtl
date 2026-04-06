@@ -6,6 +6,7 @@ Ks 1.0000 1.0000 1.0000
 Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 2.9383
+illum 2
 map_Kd DOOR-2.png
 map_Bump DOOR-2_normal.png
 newmtl NEW_PALACE_3.1
@@ -15,5 +16,6 @@ Ks 1.0000 1.0000 1.0000
 Tf 0.0000 0.0000 0.0000
 d 1.0000
 Ns 26.3198
+illum 2
 map_Kd limestone.jpg
 map_Bump limestone_normal.png
